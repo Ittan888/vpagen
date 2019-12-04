@@ -1,0 +1,7 @@
+pages:
+- dynamic: true
+  path: /user
+- dynamic: true
+  path: /post
+- dynamic: false
+  path: /customer
